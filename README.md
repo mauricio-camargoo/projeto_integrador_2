@@ -1,7 +1,4 @@
 
-# Setup Docker Para Projetos Laravel (+9) (com Swoole + Octane)
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
-
 ### Passo a passo
 Clone Repositório
 ```sh
@@ -31,7 +28,7 @@ cp .env.example .env
 
 Atualize as variáveis de ambiente do arquivo .env
 ```dosini
-APP_NAME="Especializa Ti"
+APP_NAME="Estudos Laravel"
 APP_URL=http://localhost:8989
 
 DB_CONNECTION=mysql
